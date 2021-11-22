@@ -18,5 +18,6 @@ The main goal of this project is to work on real data based on a real life busin
 * Matplotlib
 
 ## Verify
+https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_5mSZnjc5dt3EZmt3L_1630655909908_completion_certificate.pdf
 
  
