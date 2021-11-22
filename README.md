@@ -4,5 +4,17 @@
 The main goal of this project is to work on real data based on a real life business problem. This programme covers all of the key skills of a data analytics consultant: -Data Quality Assessment -Data Insights -Data Insights and Presentation
 
 
-# Methods used
+## Methods used
 * Preprocessing and Data Cleaning
+* Machine Learning
+* Data Visualisation
+
+## Technologies used
+* Excel
+* Python
+* Jupyter Notebook
+* Pandas
+* Numpy
+* Matplotlib
+* 
+ 
