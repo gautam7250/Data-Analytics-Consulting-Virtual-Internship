@@ -16,5 +16,7 @@ The main goal of this project is to work on real data based on a real life busin
 * Pandas
 * Numpy
 * Matplotlib
-* 
+
+## Verify
+
  
